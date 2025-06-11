@@ -1,5 +1,5 @@
 
-# 💼 Data Science Salary Analysis (2020–2023)
+# 💼 Data Science Salary Analysis (2020–2024)
 
 This project analyzes a dataset of over 3,000 data science job salaries collected between 2020 and 2023. It explores how various factors — such as experience level, employment type, remote work ratio, and company location — influence salaries in USD.
 
