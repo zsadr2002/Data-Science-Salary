@@ -30,21 +30,7 @@ This project analyzes a dataset of over 3,000 data science job salaries collecte
 
 ---
 
-## 📁 Folder Structure
 
-```
-Data-Science-Salary-Analysis/
-│
-├── Data/
-│   └── data_science_salaries.csv           # Source data
-│
-├── salary_analysis.ipynb                  # Main Jupyter Notebook
-├── README.md                              # Project overview
-├── requirements.txt                       # Project dependencies
-└── images/                                # Saved charts (optional)
-```
-
----
 
 ## 📝 Notebook Features
 
